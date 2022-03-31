@@ -1,4 +1,7 @@
 {% include navigation.html %}
+___
+
+<br>
 
 # Create Task Project
 ## Ideas
