@@ -3,6 +3,8 @@
 # imports from other .py files
 from MenuFunctions.Week0.ship import ship
 from MenuFunctions.Week1.database import for_loop, while_loop, recursive_loop
+from MenuFunctions.Week3.factors import factors, factorsTester
+from MenuFunctions.Week3.primes import primes, primesTester
 
 
 # Main Menu
@@ -49,6 +51,14 @@ week2_sub_menu = [
     ["Greatest Common Denominator", "MenuFunctions/Week2/mathFunction.py"],
 ]
 
+week3_sub_menu = [
+    ["Factors", factors],
+    ["Factors Testers", factorsTester],
+    ["Primes", primes],
+    ["Primes Testers", primesTester],
+]
+
+
 
 
 border = "=" * 25
@@ -65,6 +75,7 @@ def menu():
     menu_list.append(["Week 0", week0_submenu])
     menu_list.append(["Week 1", week1_submenu])
     menu_list.append(["Week 2", week2_submenu])
+    menu_list.append(["Week 3", week3_submenu])
     buildMenu(title, menu_list)
 
 def math_submenu():
@@ -74,7 +85,11 @@ def math_submenu():
 def fun_submenu():
     title = "Fun Submenu"  
     buildMenu(title, fun_sub_menu)
-  
+
+def week3_submenu():
+    title = "Week 3 Submenu" 
+    buildMenu(title, week3_sub_menu)
+    
 def week2_submenu():
     title = "Week 2 Submenu" 
     buildMenu(title, week2_sub_menu)
