@@ -28,8 +28,8 @@
       <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/4">Review Ticket 2
       <td>March 28</td>
 
-    <tr>
-       <td>Week 3</td>
-       <td>Algorithmic Final</td>
-       <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/5">Review Ticket 3
-       <td>April 4</td>
+   <tr>
+      <td>Week 3</td>
+      <td>Algorithmic Final</td>
+      <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/5">Review Ticket 3
+      <td>April 4</td>
