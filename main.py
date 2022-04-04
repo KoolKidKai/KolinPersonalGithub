@@ -2,10 +2,10 @@
 # 2. function references will be executed directly file.function()
 # imports from other .py files
 from MenuFunctions.Week0.ship import ship
-from MenuFunctions.Week1.database import for_loop, while_loop, recursive_loop
+from MenuFunctions.Week1.database import databases
 from MenuFunctions.Week3.factors import factors, factorsTester
 from MenuFunctions.Week3.primes import primes, primesTester
-
+from MenuFunctions.Week3 import advy
 
 # Main Menu
 main_menu = []
@@ -13,14 +13,10 @@ main_menu = []
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 math_sub_menu = [
-    ["Lists", "MenuFunctions/Week1/dbLists.py"],
-    ["Loops", "MenuFunctions/Week1/dbLoops.py"],
-    ["For Loop", for_loop],
-    ["While Loop", while_loop],
-    ["Recursive Loop", recursive_loop],
+    ["Database", databases],
     ["Fibonacci", "MenuFunctions/Week1/fibonacci.py"],
     ["Factorial", "MenuFunctions/Week2/factorial.py"],
-    ["Palindrome", "MenuFunctions/Week2/mathFunction.py"],
+    ["Palindrome", "MenuFunctions/Week2/palindrome.py"],
     ["Greatest Common Denominator", "MenuFunctions/Week2/mathFunction.py"],
 ]
 
@@ -29,6 +25,12 @@ fun_sub_menu = [
     ["Tree", "MenuFunctions/Week0/tree.py"],
     ["Ship", ship],
     ["Keypad", "MenuFunctions/Week0/keypad.py"],
+]
+
+adventure_sub_menu = [
+    ["At the Beach?", advy.beach],
+    ["On top of the Mountains?", advy.mountain],
+    ["Navigating a lake?", advy.lake]
 ]
 
 #weekly menu
@@ -40,8 +42,7 @@ week0_sub_menu = [
 ]
 
 week1_sub_menu = [
-    ["Lists", "MenuFunctions/Week1/dbLists.py"],
-    ["Loops", "MenuFunctions/Week1/dbLoops.py"],
+    ["Database", databases],
     ["Fibonacci", "MenuFunctions/Week1/fibonacci.py"],
 ]
 
@@ -71,6 +72,7 @@ def menu():
     menu_list = main_menu.copy()
     menu_list.append(["Math", math_submenu])
     menu_list.append(["Fun", fun_submenu])
+    menu_list.append(["Adventure", adventure_submenu])
     menu_list.append([ "----------" ])
     menu_list.append(["Week 0", week0_submenu])
     menu_list.append(["Week 1", week1_submenu])
@@ -86,9 +88,15 @@ def fun_submenu():
     title = "Fun Submenu"  
     buildMenu(title, fun_sub_menu)
 
+def adventure_submenu():
+    title = "Adventure Submenu" 
+    buildMenu(title, adventure_sub_menu)
+
 def week3_submenu():
-    title = "Week 3 Submenu" 
-    buildMenu(title, week3_sub_menu)
+    title = "Week 3 Submenu"
+    menu_list = week3_sub_menu.copy()
+    menu_list.append(["Adventure", adventure_submenu])
+    buildMenu(title, menu_list)
     
 def week2_submenu():
     title = "Week 2 Submenu" 

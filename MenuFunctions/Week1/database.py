@@ -2,31 +2,24 @@
 InfoDb = []
 
 InfoDb.append({  
-               "Name": "Nathan Shih",  
-               "Birth": "November 12",
-               "Siblings": "Yes",
-               "Hobbies":["Coding", "Fishing", "Driving", "Gaming"]  
+               "Name": "Colin Howard",  
+               "Birthdate": "March 14th",
+               "Location": "Poway",
+               "Hobbies":["Cooking", "Instruments", "Volunteering", "Gaming"]  
               })  
 
 InfoDb.append({  
-               "Name": "Noah Jeng",  
-               "Birth": "February 14",
-               "Siblings": "Yes",
-               "Hobbies":["Soccer", "Driving", "Gaming", "Sleeping"] 
+               "Name": "Lucas Huang",  
+               "Birthdate": "August 28th",
+               "Location": "4S Ranch",
+               "Hobbies":["Basketball", "Pokemon", "Cats & Soup", "Eating"] 
               })
 
 InfoDb.append({  
-               "Name": "Isaac Le",  
-               "Birth": "December 3",
-               "Siblings": "No",
-               "Hobbies":["School", "Gaming", "Listening to Music", "Math"] 
-              })
-
-InfoDb.append({  
-               "Name": "Tanay Rayavarapu",  
-               "Birth": "October 14",
-               "Siblings": "Yes",
-               "Hobbies":["Basketball", "Anime", "YouTube", "Music"] 
+               "Name": "Timmy Lin",  
+               "Birthdate": "November 10th",
+               "Location": "Hayden Lake Place",
+               "Hobbies":["Gaming", "Anime", "Hanging out with Colin <3", "Fishing"] 
               })
 
 # Datalist to print using the three loops - for - while - recursion
@@ -34,39 +27,32 @@ InfoDb.append({
 InfoDbLoop = []
 
 InfoDbLoop.append({  
-               "Name": "Nathan Shih",  
-               "Sport": "Tennis",
-               "Age": "17",
-               "Hobbies":["Coding", "Fishing", "Driving", "Gaming"]  
+               "Name": "Colin Howard",  
+               "Birthdate": "March 14th",
+               "Location": "Poway",
+               "Hobbies":["Cooking", "Gaming", "Volunteering", "Instruments"]  
               })  
 
 InfoDbLoop.append({  
-               "Name": "Noah Jeng",  
-               "Sport": "Soccer",
-               "Age": "17",
-               "Hobbies":["Soccer", "Driving", "Gaming", "Sleeping"] 
+               "Name": "Lucas Huang",  
+               "Birthdate": "August 28th",
+               "Location": "4S Ranch",
+               "Hobbies":["Basketball", "Pokemon", "Cats & Soup", "Eating"] 
               })
 
 InfoDbLoop.append({  
-               "Name": "Isaac Le",  
-               "Sport": "Soccer",
-               "Age": "17",
-               "Hobbies":["School", "Gaming", "Listening to Music", "Math"] 
-              })
-
-InfoDbLoop.append({  
-               "Name": "Tanay Rayavarapu",  
-               "Sport": "Swimming",
-               "Age": "17",
-               "Hobbies":["Basketball", "Anime", "YouTube", "Music"] 
+               "Name": "Timmy Lin",  
+               "Birthdate": "November 10th",
+               "Location": "Hayden Lake Place",
+               "Hobbies":["Gaming", "Anime", "Hanging out with Colin <3", "Fishing"] 
               })
 
 def print_data(n):
   print(InfoDbLoop[n]["Name"])  # print name
-  print("\t", "Sport: ", end="")
-  print(InfoDbLoop[n]["Sport"])
-  print("\t", "Age: ", end="")  # \t is a tab indent, end="" make sure no return occurs
-  print(InfoDbLoop[n]["Age"])
+  print("\t", "Birthdate: ", end="")
+  print(InfoDbLoop[n]["Birthdate"])
+  print("\t", "Location: ", end="")  # \t is a tab indent, end="" make sure no return occurs
+  print(InfoDbLoop[n]["Location"])
   print("\t", "Hobbies: ", end="")
   print(", ".join(InfoDbLoop[n]["Hobbies"]))  # join allows printing a string list with separator
   print()
@@ -95,10 +81,16 @@ def recursive_loop(n):
     recursive_loop(n + 1)
   return # exit condition
 
-def main():
-  print("THIS IS THE FOR LOOP PRINTING")
+def __init__(self, n):
+  self.n = n
+
+def databases():
+  print("Printing for loop")
+  print(" ")
   for_loop()
-  print("THIS IS THE WHILE LOOP PRINTING")
+  print("Printing while loop")
+  print(" ")
   while_loop(0)
-  print("THIS IS RECURSION PRINTING")
+  print("Printing recursive loop")
+  print(" ")
   recursive_loop(0)

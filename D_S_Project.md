@@ -4,11 +4,28 @@ ___
 
 <br>
 
-## Menu and Sub Menu
+# Menu and Sub Menu
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@ColinHoward3/KolinPersonalGithub-4?embed=true"></iframe>
 
-# Key Learnings (Week 2)
+## Key Learninngs (Week 3)
+
+Created animation function
+![image](Images/image.png)
+
+Fixed crossover partner's Database (this one took a long time, finding and fixing bugs has always been hard for me)
+![image](Images/image_3.png)
+
+Created new palindrome function for crossover partner's page
+![image](Images/image_4.png)
+
+Learned new way to organize and import to main.py from crossover partner
+![image](Images/image5.png)
+
+Learned better way to manage submenus and call functions from crossover partner
+![image](Images/image6.png)
+
+## Key Learnings (Week 2)
 
 ![image](https://user-images.githubusercontent.com/89219634/160471777-f4fd97fc-f3fb-4c21-a8c6-dcf52d089156.png)
 Organized files
@@ -25,7 +42,7 @@ Math in OOP
 ![image](https://user-images.githubusercontent.com/89219634/160471678-8e6eb98c-a29f-40d1-ba7c-9ac4a11c951c.png)
 Palindrome
 
-# Key Learnings (Week 1)
+## Key Learnings (Week 1)
 
 ![image](https://user-images.githubusercontent.com/89219634/159347153-b026ef34-4039-4470-9f45-b657351923c1.png)
 The three loop types
