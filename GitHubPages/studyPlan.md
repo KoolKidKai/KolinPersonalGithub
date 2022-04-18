@@ -1,1 +1,3 @@
-study
+{% include navigation.html %}
+
+### Study Plan ###
