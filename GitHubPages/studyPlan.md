@@ -7,6 +7,10 @@
 
 Already finished, ready for submission
 
+Reviewed By: **In Progress**
+
+Submitted on: **N/A**
+
 # Study Plan #
 
 <table>
