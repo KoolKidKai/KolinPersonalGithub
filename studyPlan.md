@@ -35,12 +35,12 @@ Submitted on: **N/A**
   <tr>
     <td>4/20</td>
     <td>Converting Decimal/binary to ASCII</td>
-    <td>In progress</td>
+    <td>Easy once you know the tricks</td>
   </tr>
   <tr>
     <td>4/21</td>
     <td>Practice MCQ 2</td>
-    <td>Incomplete</td>
+    <td>Pretty Easy</td>
   </tr>
 </table>
   
@@ -72,6 +72,20 @@ Reflection: I did very well on this quiz, but parts of it were definitely lucky.
     <td>April 21st</td>
     <td>48/50</td>
   </tr>
+  <tr>
+    <td>Corrections</td>
+  </tr>
+  <tr>
+    <td>Question #</td>
+    <td>What was the mistake?</td>
+  </tr>
+  <tr>
+    <td>#36</td>
+    <td>I didn't know what a sampling error was, so I assumed that was the cause of the problem. A sampling error is when the data you choose does not represent the population that the data is being taken from</td>
+  </tr>
+  <tr>
+    <td>#41</td>
+  
 </table>
 
 #### Reflection ####
