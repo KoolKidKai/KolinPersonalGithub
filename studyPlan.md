@@ -13,6 +13,8 @@ Submitted on: **N/A**
 
 # Study Plan #
 
+[Review Ticket]()
+
 <table>
   <tr>What to Study</tr>
   <tr>
@@ -56,5 +58,31 @@ Submitted on: **N/A**
     <td>50/50</td>
   </tr>
 </table>
+
+Reflection: I did very well on this quiz, but parts of it were definitely lucky. I probably should not have gotten a 50/50. Especially the parts converting decimal, ascii and binary. I need to learn how to do that, because I have no clue. The majority of the test was pretty easy otherwise though, so I think I can get a 5 on the AP exam.
   
 ### MCQ 2 4/21 ###
+
+<table>
+  <tr>
+    <td>Date Taken</td>
+    <td>Score</td>
+  </tr>
+  <tr>
+    <td>April 21st</td>
+    <td>48/50</td>
+  </tr>
+</table>
+
+#### Reflection ####
+
+I was very confident with almost all of my answers. I think I deserved the 48/50, this was much less luck based than the previous MCQ. Learning how to convert decimal, ASCII and binary were very helpful as there were about three question related to that which I would not have known otherwise. In general, I feel prepared for the AP exam.
+
+#### Scratch Work ####
+
+![scratchWork](https://user-images.githubusercontent.com/89219634/164544410-38d9b3a0-9ac1-4be1-a41b-1eb62775a3a4.jpg)
+
+
+
+
+  
