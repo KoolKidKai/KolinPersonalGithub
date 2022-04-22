@@ -13,7 +13,7 @@ Submitted on: **N/A**
 
 # Study Plan #
 
-[Review Ticket]()
+[Review Ticket](https://github.com/KoolKidKai/KolinPersonalGithub/issues/7)
 
 <table>
   <tr>What to Study</tr>
