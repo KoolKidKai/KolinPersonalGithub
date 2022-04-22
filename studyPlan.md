@@ -72,6 +72,9 @@ Reflection: I did very well on this quiz, but parts of it were definitely lucky.
     <td>April 21st</td>
     <td>48/50</td>
   </tr>
+</table>
+  
+<table>
   <tr>
     <td>Corrections</td>
   </tr>
@@ -85,7 +88,8 @@ Reflection: I did very well on this quiz, but parts of it were definitely lucky.
   </tr>
   <tr>
     <td>#41</td>
-  
+    <td>The data provided only gave the total price of the transactions, not the individual prices of each item. I thought it was the opposite, and so I chose C iinstead of D</td>
+  </tr>
 </table>
 
 #### Reflection ####
