@@ -42,6 +42,11 @@ Submitted on: **N/A**
     <td>Practice MCQ 2</td>
     <td>Pretty Easy</td>
   </tr>
+  <tr>
+    <td>4/22</td>
+    <td>Review MCQ 2 Questions</td>
+    <td>Not bad, didn't miss many so I feel pretty confident</td>
+  </tr>
 </table>
   
 
