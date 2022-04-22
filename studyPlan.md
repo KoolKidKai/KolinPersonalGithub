@@ -18,9 +18,9 @@ Submitted on: **N/A**
 <table>
   <tr>What to Study</tr>
   <tr>
-    <td>Date</td>
-    <td>Focus</td>
-    <td>Difficulty</td>
+    <th>Date</th>
+    <th>Focus</th>
+    <th>Difficulty</th>
   </tr>
   <tr>
     <td>4/18</td>
@@ -50,8 +50,8 @@ Submitted on: **N/A**
 ### MCQ 1 4/19 ###
 <table>
   <tr>
-    <td>Date Taken</td>
-    <td>Score</td>
+    <th>Date Taken</th>
+    <th>Score</th>
   </tr>
   <tr>
     <td>April 19th</td>
@@ -65,8 +65,8 @@ Reflection: I did very well on this quiz, but parts of it were definitely lucky.
 
 <table>
   <tr>
-    <td>Date Taken</td>
-    <td>Score</td>
+    <th>Date Taken</th>
+    <th>Score</th>
   </tr>
   <tr>
     <td>April 21st</td>
@@ -76,7 +76,7 @@ Reflection: I did very well on this quiz, but parts of it were definitely lucky.
   
 <table>
   <tr>
-    <td>Corrections</td>
+    <th colspan="2">Corrections</th>
   </tr>
   <tr>
     <td>Question #</td>
