@@ -84,7 +84,7 @@ Reflection: I did very well on this quiz, but parts of it were definitely lucky.
     <th colspan="2">Corrections</th>
   </tr>
   <tr>
-    <td>Question #</td>
+    <td>Question</td>
     <td>What was the mistake?</td>
   </tr>
   <tr>
