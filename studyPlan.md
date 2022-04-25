@@ -7,7 +7,13 @@
 
 Already finished, ready for submission
 
-Reviewed By: **In Progress**
+Reviewed By: Nathan Shih
+
+Comments
+  - seems to contain all necessary requirements
+  - video is within time limit and shows runtime well
+  - Adding a score counter would be nice
+  - Overall seems ready for submission
 
 Submitted on: **N/A**
 
