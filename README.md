@@ -33,3 +33,15 @@
       <td>Algorithmic Final</td>
       <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/5">Review Ticket 3
       <td>April 4</td>
+         
+   <tr>
+      <td>Week 4</td>
+      <td>Accounts and Logins</td>
+      <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/6">Review Ticket 4
+      <td>April 8th</td>
+         
+   <tr>
+      <td>Week 5</td>
+      <td>MCQ Quizzes 1</td>
+      <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/7">Review Ticket 5
+      <td>April 25th</td>
