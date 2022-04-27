@@ -37,3 +37,5 @@ code is working, need to develop list of questions and answers to create actual 
 # [CollegeBoard Write-Ups 1-3](https://docs.google.com/document/d/1GSxZ40Y6YjyhAHV5BIMxW1bKBzm1pJyZ4RdahyDoaGs/edit?usp=sharing)
 
 # [Video](https://www.loom.com/share/0882c2057a7a4033ab847610af0013bb)
+
+# [Code written out](https://docs.google.com/document/d/1qu7Fo2lN6Fl0z5h0c1GDM9UmM8KmOOmP2-zY5U3BZtI/edit?usp=sharing)
