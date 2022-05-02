@@ -5,7 +5,7 @@
 
 [Create Task](CreateTask.md)
 
-Already finished, ready for submission
+Submitted
 
 Reviewed By: Nathan Shih
 
@@ -15,7 +15,7 @@ Comments
   - Adding a score counter would be nice
   - Overall seems ready for submission
 
-Submitted on: **N/A**
+Submitted on: May 1st
 
 # Study Plan #
 
@@ -100,6 +100,45 @@ Reflection: I did very well on this quiz, but parts of it were definitely lucky.
   <tr>
     <td>#41</td>
     <td>The data provided only gave the total price of the transactions, not the individual prices of each item. I thought it was the opposite, and so I chose C iinstead of D</td>
+  </tr>
+</table>
+
+### MCQ 3 4/26 ###
+
+<table>
+  <tr>
+    <th>Date Taken</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>April 26th</td>
+    <td>46/50</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2">Corrections</th>
+  </tr>
+  <tr>
+    <td>Question</td>
+    <td>What was the mistake?</td>
+  </tr>
+  <tr>
+    <td>#2</td>
+    <td>Not all problems can be solved algorithmically</td>
+  </tr>
+  <tr>
+    <td>#7</td>
+    <td>The algorithm runs without error and returns something. The function will add each subsequent value for a sum from 1 to n</td>
+  </tr>
+  <tr>
+    <td>#14</td>
+    <td>Diane is not in the lsit and thererrfore will display 0 as it should when finding Diane, it should display 1 for answer C, but will instead display 0</td>
+  </tr>
+  <tr>
+    <td>#17</td>
+    <td>The function will show the first number that is less than the previous number, therefore C and D will display the wrong values; 20 and 30</td>
   </tr>
 </table>
 
