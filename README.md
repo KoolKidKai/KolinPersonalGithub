@@ -45,3 +45,9 @@
       <td>MCQ Quizzes 1</td>
       <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/7">Review Ticket 5
       <td>April 25th</td>
+         
+   <tr>
+      <td>Week 6</td>
+      <td>MCQ Quizzes 2</td>
+      <td><a href="https://github.com/KoolKidKai/KolinPersonalGithub/issues/8">Review Ticket 6
+      <td>May 3rd</td>
