@@ -142,6 +142,41 @@ Reflection: I did very well on this quiz, but parts of it were definitely lucky.
   </tr>
 </table>
 
+### MCQ #4 5/5 ###
+
+<table>
+  <tr>
+    <th>Date Taken</th>
+    <th>Score</th>
+  </tr>
+  <tr>
+    <td>May 5th</td>
+    <td>47/50</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2">Corrections</th>
+  </tr>
+  <tr>
+    <td>Question</td>
+    <td>What was the mistake?</td>
+  </tr>
+  <tr>
+    <td>#16</td>
+    <td>Both will display the same values in the same order, misunderstood how the loop was working</td>
+  </tr>
+  <tr>
+    <td>#17</td>
+    <td>One will use scan function 5 times more than the other, scan takes 1 min each therefore the other will take 5 minutes more to execute</td>
+  </tr>
+  <tr>
+    <td>#50</td>
+    <td>Clicked the wrong answer when submitting the quiz</td>
+  </tr>
+</table>
+
 #### Reflection ####
 
 I was very confident with almost all of my answers. I think I deserved the 48/50, this was much less luck based than the previous MCQ. Learning how to convert decimal, ASCII and binary were very helpful as there were about three question related to that which I would not have known otherwise. In general, I feel prepared for the AP exam.
